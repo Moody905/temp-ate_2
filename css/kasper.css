@@ -289,6 +289,7 @@ header nav .form i {
 .services {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
+    background-color: white;
 }
 @media (min-width: 768px) {
     .services .services-container {
